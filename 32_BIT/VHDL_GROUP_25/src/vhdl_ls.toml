@@ -1,0 +1,6 @@
+[libraries]
+
+  [libraries.work]
+  files = [
+    "Instruction_Fetch.vhd"
+  ]
